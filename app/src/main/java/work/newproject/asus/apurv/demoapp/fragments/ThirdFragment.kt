@@ -20,6 +20,8 @@ class ThirdFragment : Fragment() {
     lateinit var txtTitle: TextView
     lateinit var bt_floting_action: FloatingActionButton
     lateinit var btPre: Button
+    //
+    //;;;
 
     @SuppressLint("SetTextI18n")
     override fun onCreateView(
